@@ -20,8 +20,8 @@ class Student:
         self.average = new_average
         print(f"Average of student: {self.average}")
 
-first_student = Student("Diana", "Tysiak", "23", "10")
+first_student = Student("Diana", "Tysiak", 23, 10)
 first_student.display
-first_student.change_average("11")
+first_student.change_average(11)
 first_student.display()
 
