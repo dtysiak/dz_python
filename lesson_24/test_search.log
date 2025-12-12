@@ -1,0 +1,181 @@
+2025-12-12 11:12:32,352 - INFO - Success
+2025-12-12 11:12:32,352 - INFO - params={'sort_by': 'price', 'limit': 1}
+2025-12-12 11:12:32,354 - INFO - Status: 200
+2025-12-12 11:12:32,354 - INFO - Response: [
+  {
+    "brand": "Chevrolet",
+    "engine_volume": 1.8,
+    "price": 28000,
+    "year": 2018
+  }
+]
+
+2025-12-12 11:12:32,355 - INFO - params={'sort_by': 'price', 'limit': 3}
+2025-12-12 11:12:32,356 - INFO - Status: 200
+2025-12-12 11:12:32,356 - INFO - Response: [
+  {
+    "brand": "Chevrolet",
+    "engine_volume": 1.8,
+    "price": 28000,
+    "year": 2018
+  },
+  {
+    "brand": "Hyundai",
+    "engine_volume": 1.6,
+    "price": 29000,
+    "year": 2020
+  },
+  {
+    "brand": "Honda",
+    "engine_volume": 1.6,
+    "price": 30000,
+    "year": 2016
+  }
+]
+
+2025-12-12 11:12:32,356 - INFO - params={'sort_by': 'year', 'limit': 2}
+2025-12-12 11:12:32,357 - INFO - Status: 200
+2025-12-12 11:12:32,357 - INFO - Response: [
+  {
+    "brand": "Ford",
+    "engine_volume": 2.2,
+    "price": 32000,
+    "year": 2015
+  },
+  {
+    "brand": "Honda",
+    "engine_volume": 1.6,
+    "price": 30000,
+    "year": 2016
+  }
+]
+
+2025-12-12 11:12:32,358 - INFO - params={'sort_by': 'year', 'limit': 5}
+2025-12-12 11:12:32,359 - INFO - Status: 200
+2025-12-12 11:12:32,359 - INFO - Response: [
+  {
+    "brand": "Ford",
+    "engine_volume": 2.2,
+    "price": 32000,
+    "year": 2015
+  },
+  {
+    "brand": "Honda",
+    "engine_volume": 1.6,
+    "price": 30000,
+    "year": 2016
+  },
+  {
+    "brand": "Toyota",
+    "engine_volume": 2.4,
+    "price": 35000,
+    "year": 2017
+  },
+  {
+    "brand": "Subaru",
+    "engine_volume": 2.5,
+    "price": 40000,
+    "year": 2017
+  },
+  {
+    "brand": "BMW",
+    "engine_volume": 2.0,
+    "price": 50000,
+    "year": 2018
+  }
+]
+
+2025-12-12 11:12:32,359 - INFO - params={'sort_by': 'brand', 'limit': 4}
+2025-12-12 11:12:32,360 - INFO - Status: 200
+2025-12-12 11:12:32,360 - INFO - Response: [
+  {
+    "brand": "Acura",
+    "engine_volume": 2.4,
+    "price": 48000,
+    "year": 2020
+  },
+  {
+    "brand": "Audi",
+    "engine_volume": 1.8,
+    "price": 45000,
+    "year": 2020
+  },
+  {
+    "brand": "BMW",
+    "engine_volume": 2.0,
+    "price": 50000,
+    "year": 2018
+  },
+  {
+    "brand": "Bugatti",
+    "engine_volume": 8.0,
+    "price": 350000,
+    "year": 2019
+  }
+]
+
+2025-12-12 11:12:32,361 - INFO - params={'sort_by': 'engine_volume', 'limit': 10}
+2025-12-12 11:12:32,361 - INFO - Status: 200
+2025-12-12 11:12:32,362 - INFO - Response: [
+  {
+    "brand": "Tesla",
+    "engine_volume": 0.0,
+    "price": 80000,
+    "year": 2020
+  },
+  {
+    "brand": "Nissan",
+    "engine_volume": 1.5,
+    "price": 40000,
+    "year": 2021
+  },
+  {
+    "brand": "Honda",
+    "engine_volume": 1.6,
+    "price": 30000,
+    "year": 2016
+  },
+  {
+    "brand": "Hyundai",
+    "engine_volume": 1.6,
+    "price": 29000,
+    "year": 2020
+  },
+  {
+    "brand": "Audi",
+    "engine_volume": 1.8,
+    "price": 45000,
+    "year": 2020
+  },
+  {
+    "brand": "Chevrolet",
+    "engine_volume": 1.8,
+    "price": 28000,
+    "year": 2018
+  },
+  {
+    "brand": "BMW",
+    "engine_volume": 2.0,
+    "price": 50000,
+    "year": 2018
+  },
+  {
+    "brand": "Volkswagen",
+    "engine_volume": 2.0,
+    "price": 33000,
+    "year": 2019
+  },
+  {
+    "brand": "Kia",
+    "engine_volume": 2.0,
+    "price": 31000,
+    "year": 2019
+  },
+  {
+    "brand": "Mazda",
+    "engine_volume": 2.0,
+    "price": 32000,
+    "year": 2018
+  }
+]
+
